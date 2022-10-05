@@ -1,0 +1,40 @@
+/*=============== GOOGLE FONTS ===============*/
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@800&display=swap");
+
+/*=============== VARIABLES CSS ===============*/
+:root {
+  /*========== Colors ==========*/
+  --body-color: hsl(0, 0%, 96%);
+  --text-color: hsl(0, 0%, 12%);
+
+  /*========== Font and typography ==========*/
+  --body-font: 'Inter', sans-serif;
+  --loading-font-size: 2rem;
+}
+
+/*=============== LOADING ===============*/
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  background-color: var(--body-color);
+  overflow: hidden;
+}
+
+
+/* Add animated class */
+
+
+/* Animated dot 1 */
+
+
+/* Animated dot 2 & 3*/
+
+
+/* Animated dot 4 */
